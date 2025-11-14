@@ -6,7 +6,7 @@ Je m'appelle TANDEU PESSOHO ROOSVELT, je débute en phyton et je suis passionné
 
 ## À propos de moi
 - Formation : BACC en maintenance et installation des systèmes électronique (MISE)
-- Compétences : TCP/IP, VLAN, segmentation réseaux IPV4, 
+- Compétences : TCP/IP, VLAN, segmentation réseaux IPV4, labs réseaux sur cisco packet tracer
 - Objectif : Automatiser des tâches réseau et sécuriser des infrasructures IT
 
 ## Mes Projets 

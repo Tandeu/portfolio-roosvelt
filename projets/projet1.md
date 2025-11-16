@@ -21,5 +21,5 @@ Ce projet consiste à mettre en place un réseau WAN composé de deux réseaux L
 -  Plan d'adressage IPV4
 
   ## Captures du projet 
-  ### Shéma général
+ 
   

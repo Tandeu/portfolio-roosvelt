@@ -1,7 +1,7 @@
-#  Projet 1 - Interconnexion de deux réseaux LAN distants via des routeurs
+ #  Projet 1 - Interconnexion de deux réseaux LAN distants via des routeurs
 
 ##  Description du projet 
-Ce projet consiste à mettre en place un réseau WAN composé de deux réseaux LAN distants via des routeurs
+Ce projet consiste à mettre en place un réseau WAN composé de deux réseaux LAN distants et de lès interconnectés  via des routeurs
 
 
 ## Objectifs du projet 
